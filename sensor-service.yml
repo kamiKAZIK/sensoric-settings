@@ -10,6 +10,12 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost/sensoric
     password: '{cipher}7164d301a5994c201fd1c77326ca0de716e1c8cb79ba59ce714b772f39c085c7'
+sensoric:
+  security:
+    user:
+      password: '{noop}sensor-user'
+    manager:
+      password: '{noop}sensor-manager'
 ---
 spring:
   profiles: production
