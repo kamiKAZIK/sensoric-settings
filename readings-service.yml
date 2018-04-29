@@ -9,7 +9,7 @@ spring:
   profiles: local
   datasource:
     url: jdbc:postgresql://localhost/sensoric
-    password: '{cipher}7164d301a5994c201fd1c77326ca0de716e1c8cb79ba59ce714b772f39c085c7'
+    password: '{cipher}AgABNCAnEd6LxtvlQ8BOkZnUpIXvTq/k9N0989cU6Eeam+BjOy8PxKB/JoWPVHzK0eswA4NTsEjBCGWu0vF8+t4EgJemNzthyVKrQQaQ0z3gpj+MlzDOWVLs0gZt7IlbNpGdz28iME2Mt+9EoZICLrKuvpzxP6ISddOH77Kd9fzqT9Aq1e5dy/yzaIQWXeW8hi5xvlTZtyn7HW+HLGDDkinwZaCZWWPtvuwTx+5VBkZu8yjEW7Fp0+ctXJ/adRiRaF47WaVFdbSh0kjQyTRv+oG4g/Novs2MSItIONxNpQ+lKUO0g4KQsd56uKCJ3PyODDmKmQDNixShKWNItHf6/KkfEKOvW0cATVDmSTgDwLaitY9/1berMHMMDncBC8H02Ax3Z+CyrZd+MZEakR3C2dmmk4JOeLfjfTPx/M2Ab27AEOg//JVzE5UOk4mj18lWK3oIt6WV27mSIVTPXXU5X/SYD08at9tRHlBdyy0l/9ZSUxMQtGoz7aE3oso7HQ2tvO9ZgtcBb+lzjMoOx4P0VzgLGLzZMXKITo2iWAAmn+9MRr2WUhKZ57Z3GN9xEwolXpKGYKApt655MoJKUAZKS4Bi+fnTCNbjHrDojuuItHjvDjfJMhnIl4PT+PsWf524qFs/NlbomV0dqFQMXQQHpVkIejWhshsZsP/SScpCb+gASyR+Zii2vkoYaey9XhfHPCjGvvTBV5DrPuxLjyozsb+x/oUMfg4Oj906LQ7mX/XCP/YK0YYImmXUmSHId59BCIU='
 ---
 spring:
   profiles: production
