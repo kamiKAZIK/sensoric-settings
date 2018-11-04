@@ -9,7 +9,7 @@ spring:
   profiles: local
   datasource:
     url: jdbc:postgresql://localhost/sensoric
-    password: '{cipher}7164d301a5994c201fd1c77326ca0de716e1c8cb79ba59ce714b772f39c085c7'
+    password: '{cipher}a0b51e17e14feb681ad0ed51c6eb693b010dc41c7299dbc31480686be4f85b58'
 sensoric:
   security:
     user:
