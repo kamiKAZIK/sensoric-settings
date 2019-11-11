@@ -1,0 +1,14 @@
+spring:
+  profiles: local
+  datasource:
+    url: jdbc:postgresql://localhost/sensoric
+    password: '{noop}sensoric'
+sensoric:
+  security:
+    user:
+      password: '{noop}sensor-user'
+    manager:
+      password: '{noop}sensor-manager'
+    jwt:
+      symetric-encryption:
+        key: "symetric"
